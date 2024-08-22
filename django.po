@@ -23377,3 +23377,6 @@ msgstr "コースを発見する"
 
 msgid "Discover"
 msgstr "発見する"
+
+msgid "Already Enrolled"
+msgstr "既に登録済み"
